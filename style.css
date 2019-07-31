@@ -92,10 +92,33 @@ li:hover {
   }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 600px) {
   /* For a screen < 540px, this CSS will be read */
   .box-container {
     width: 80%;
     margin-left: 10%;
+  }
+
+  .container p {
+    margin: 16px 24px;
+    text-align: justify;
+    size: 20px;
+  }
+
+  #link-wagon {
+    color : white;
+    text-align: center;
+    text-decoration: none;
+    background-color:#20B2AA;
+    padding: 10px 15px;
+    border-radius: 5px;
+    width: 30%;
+   }
+
+  .container h1 {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+    color:#008B8B;
   }
 }
