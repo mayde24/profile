@@ -100,11 +100,16 @@ li:hover {
   }
 
   .container p {
+<<<<<<< HEAD
     margin: 16px 24px;
+=======
+    margin: 10px 15px;
+>>>>>>> 1f7664a7c656cb459e6af4163306a5e04def4e14
     text-align: justify;
     size: 20px;
   }
 
+<<<<<<< HEAD
   #link-wagon {
     color : white;
     text-align: center;
@@ -117,6 +122,10 @@ li:hover {
 
   .container h1 {
     font-size: 25px;
+=======
+  .container h1 {
+    size: 25px;
+>>>>>>> 1f7664a7c656cb459e6af4163306a5e04def4e14
     text-align: center;
     font-weight: bolder;
     color:#008B8B;
