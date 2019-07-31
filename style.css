@@ -98,4 +98,17 @@ li:hover {
     width: 80%;
     margin-left: 10%;
   }
+
+  .container p {
+    margin: 10px 15px;
+    text-align: justify;
+    size: 20px;
+  }
+
+  .container h1 {
+    size: 25px;
+    text-align: center;
+    font-weight: bolder;
+    color:#008B8B;
+  }
 }
